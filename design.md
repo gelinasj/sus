@@ -28,7 +28,6 @@ t ::= Val
     | primop
     | variant
     | case t of match => t...
-    | t . l
     | (t...)
     | let* def... in t
     | let def... in t
