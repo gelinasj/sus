@@ -38,3 +38,23 @@ e ::= ...
 result := val | e
 
 ```
+
+### Etiquette
+
+- Rather comprehensive unit tests for main interfaces
+- Lesser comprehensive unit tests for helpers
+- integration tests
+- quickcheck tests
+
+### Future Todo's
+
+- Eval
+- Currying
+- Types with parametric polymorphism
+- Recursive types
+- concrete syntax parser
+- repl
+- type inference???
+- Liquid haskell???
+- explore features???
+- test with others???
